@@ -1,0 +1,41 @@
+HORIZON version 1.0.0
+=====================
+
+What is Horizon?
+----------------
+Horizon is a small, simple and light Blackberry weather application. You could use WiFi or BIS-B connection, WiFi will have higher priority.
+
+I swear it’s really small, you could compare it with WeatherBug (1.135 KB) or WeatherTrax (330 KB). The reason is clear, this app just do what is necessary, get the weather forecast of your city for today until four days from today.
+
+I once need to know weather to plan my visit to other city, but I found other Blackberry app is really big and heavy. So I write one on my own.
+
+Where this software came from?
+------------------------------
+Amri Shodiq
+http://web.durianapp.com/
+amri.shodiq@gmail.com (bugs, problems, questions, feature request)
+(+62)856-9056-316 (M-F, 9 AM - 4 PM GMT+7)
+
+When I wrote Horizon?
+---------------------
+I wrote this app someday on May, 2011. I forgot the date. 
+
+Requirements?
+-------------
+I wrote this app for Blackberry OS 5.0 and up. Well, one of the class is available after OS 5.0, that is AbsoluteFieldManager (I copy the code from RIM). To port this app to support earlier OS, you need to make another view. For this version I really don't like to port it because it will force me to create another application flow.
+
+This is an Eclipse project so you need to use it with Eclipse. You could download Eclipse at http://www.eclipse.org.
+
+And this is a Blackberry software project, so you need to use Blackberry Java Plug-in for Eclipse. You could download it at http://us.blackberry.com/developers/javaappdev/javaplugin.jsp.
+
+Why I open this app?
+--------------------
+One, it is a very simple application.
+Two, these days RIM had got a lot of problem. I think one of the problem came from the lack  availability of Blackberry software. So I hope students will read this code so that they have a good 'getting started reference' to write a Blackberry application.
+
+I'm sorry
+---------
+- For my bad English
+- If the code were badly written
+
+Happy coding
