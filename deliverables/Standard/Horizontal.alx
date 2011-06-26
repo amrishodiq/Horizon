@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="Horizontal">
+		<name >
+			Horizon
+		</name>
+		<description >
+			Knowing the weather, with Horizon, will help you plan your day wether to bring your umbrella, wear a jacket or stay at home because tomorrow will be a stormy day. Horizon is good cause it&apos;s light, small, just as you need.
+		</description>
+		<version >
+			1.0.1
+		</version>
+		<vendor >
+			Amri Shodiq
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 Amri Shodiq
+		</copyright>
+		<fileset Java="1.54" _blackberryVersion="[5.0.0)">
+			<directory >
+				5.0.0
+			</directory>
+			<files >
+				Horizontal.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
